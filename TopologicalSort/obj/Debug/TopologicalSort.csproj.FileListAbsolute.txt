@@ -1,0 +1,15 @@
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\bin\Debug\TopologicalSort.exe.config
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\bin\Debug\TopologicalSort.exe
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\bin\Debug\TopologicalSort.pdb
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\bin\Debug\MetroFramework.dll
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.TopologicalSort.resources
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.Properties.Resources.resources
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.csproj.GenerateResource.cache
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.csproj.CoreCompileInputs.cache
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.csproj.CopyComplete
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.exe
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.pdb
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.UserPanel.BeginPanel.resources
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.UserPanel.FilePanel.resources
+C:\Users\DAZAI\Desktop\TopologicalSort\TopologicalSort\obj\Debug\TopologicalSort.UserPanel.WebPanel.resources
